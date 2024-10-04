@@ -14,7 +14,7 @@
 
 <script setup>
     import { ref } from 'vue';
-    //Se recibe y se actualiza la info
+    //Se recibe y se actualiza la info por los inputs
     const saveInfo = ref([{
         name: '',
         occupation: '',
